@@ -13,4 +13,3 @@ npm start
 It will run on browser
 1. You can add users by clicking on ADD USERS button
 2. You can update and delete users task
-3. 
